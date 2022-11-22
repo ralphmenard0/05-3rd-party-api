@@ -1,4 +1,8 @@
 05 Third-Party APIs: Work Day Scheduler
+
+Deployed App URL:
+https://ralphmenard0.github.io/05-3rd-party-api/
+
 Description
 Refactor a simple calendar application that allows a user to save events for each hour of the business day.
 
